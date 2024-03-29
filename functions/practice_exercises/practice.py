@@ -1,8 +1,3 @@
-
-
-
-
-
 def createStory(adjective, noun , verb):
     story = "The " + adjective + noun + verb
     print(story)
